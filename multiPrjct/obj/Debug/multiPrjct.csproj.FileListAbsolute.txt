@@ -1,0 +1,7 @@
+D:\ProjectVisal\multiPrjct\multiPrjct\bin\Debug\multiPrjct.exe.config
+D:\ProjectVisal\multiPrjct\multiPrjct\bin\Debug\multiPrjct.exe
+D:\ProjectVisal\multiPrjct\multiPrjct\bin\Debug\multiPrjct.pdb
+D:\ProjectVisal\multiPrjct\multiPrjct\obj\Debug\multiPrjct.csprojAssemblyReference.cache
+D:\ProjectVisal\multiPrjct\multiPrjct\obj\Debug\multiPrjct.csproj.CoreCompileInputs.cache
+D:\ProjectVisal\multiPrjct\multiPrjct\obj\Debug\multiPrjct.exe
+D:\ProjectVisal\multiPrjct\multiPrjct\obj\Debug\multiPrjct.pdb
